@@ -4,7 +4,7 @@ repo_description: >
   A highly fault-tolerant, zero-server E2EE messenger engineered for absolute communication resilience. 
   Supports standard P2P, robust anti-DPI tunneling, and offline mesh networking (WiFi NAN, BLE, LoRa hardware).
 
-repo_url: "https://github.io/theravanz/echo-fdroid-repo/repo"
+repo_url: "https://theravanz.github.io/echo-fdroid-repo/repo"
 
 # Локальный путь к Android SDK для сборщика индексов
 sdk_path: "/home/ravanz/Android/Sdk"
